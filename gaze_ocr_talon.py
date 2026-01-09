@@ -109,13 +109,13 @@ mod.setting(
 mod.setting(
     "ocr_light_background_debug_color",
     type=str,
-    default="000000",
+    default="ff0000",
     desc="Debug color to use on a light background",
 )
 mod.setting(
     "ocr_dark_background_debug_color",
     type=str,
-    default="FFFFFF",
+    default="00ff00",
     desc="Debug color to use on a dark background",
 )
 mod.setting(
