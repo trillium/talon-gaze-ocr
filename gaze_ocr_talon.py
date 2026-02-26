@@ -291,6 +291,7 @@ default_punctuation_words = {
     "number sign": "#",
     "percent sign": "%",
     "at sign": "@",
+    "dizzy": "@",
     "and sign": "&",
     "ampersand": "&",
     # Currencies
